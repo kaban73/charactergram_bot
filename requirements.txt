@@ -1,0 +1,14 @@
+# Основные зависимости
+telethon
+PyCharacterAI
+python-dotenv
+httpx
+
+# Дополнительные системные зависимости
+python-dateutil
+typing-extensions
+
+# Для работы с асинхронностью
+aiohttp
+asyncio
+
